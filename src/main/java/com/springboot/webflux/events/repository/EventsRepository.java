@@ -1,6 +1,6 @@
-package com.springboot.webfluxdemo.repository;
+package com.springboot.webflux.events.repository;
 
-import com.springboot.webfluxdemo.model.CalenderEvent;
+import com.springboot.webflux.events.model.CalenderEvent;
 import org.springframework.data.mongodb.repository.Query;
 import org.springframework.data.mongodb.repository.ReactiveMongoRepository;
 import reactor.core.publisher.Flux;

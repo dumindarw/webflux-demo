@@ -1,4 +1,4 @@
-package com.springboot.webfluxdemo.model;
+package com.springboot.webflux.events.model;
 
 import lombok.Data;
 import org.springframework.data.annotation.Id;
